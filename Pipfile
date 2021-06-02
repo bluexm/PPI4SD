@@ -8,6 +8,8 @@ matplotlib = "~=3.3.4"
 pandas = "*"
 networkx = "*"
 numpy = "*"
+scipy = "*"
+joblib = "*"
 
 [dev-packages]
 
